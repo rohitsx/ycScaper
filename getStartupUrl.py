@@ -3,7 +3,8 @@ import pandas as pd
 import datetime
 import os 
 
-with open("html/YC_Startup_Directory.html", "r", encoding="utf-8") as file:
+your_downloaded_html = "html/YC_Startup_Directory.html"
+with open(your_downloaded_html, "r", encoding="utf-8") as file:
     soup = BeautifulSoup(file, 'html.parser')
 
 s = soup.find('div', class_='_section_1pgsr_163 _results_1pgsr_343')
