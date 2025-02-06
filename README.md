@@ -102,18 +102,4 @@ https://www.ycombinator.com/companies/xyz-ventures
 
 
 ## Keywords for SEO 
-- Y Combinator Scraper
-- Startup Data Extraction
-- Web Scraping Tool
-- Python Scraping Script
-- YC Company Data
-- Social Media Scraper
-- Startup URL Extractor
-- BeautifulSoup Scraping
-- Data Mining Tool
-- Y Combinator API Alternative
-- Startup Research Tool
-- Web Crawler for YC
-- JSON and CSV Exporter
-- Python Data Scraping
-- Y Combinator Analytics
+Y Combinator Scraper Startup Data Extraction Web Scraping Tool Python Scraping Script YC Company Data Social Media Scraper Startup URL Extractor BeautifulSoup Scraping Data Mining Tool Y Combinator API Alternative Startup Research Tool Web Crawler for YC JSON and CSV Exporter  Python Data Scraping Y Combinator Analytics
